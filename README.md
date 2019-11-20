@@ -12,4 +12,6 @@
 
 [SeaJS 组件库](http://panxuepeng.github.io/seajslib/#lib6)
 
+[lite模板语法入门指南](http://www.xidea.org/lite/index.html)
+
 [eggjs教程](https://eggjs.org/zh-cn/intro/index.html)
